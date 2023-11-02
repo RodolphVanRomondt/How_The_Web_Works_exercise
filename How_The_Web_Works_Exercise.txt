@@ -1,0 +1,23 @@
+*** PART ONE ***
+
+HTTP is a protocol that defines how web pages should communicate
+
+a URL is the human readable address that we use to locate a specific resource
+
+DNS is a system that map the IP address of a device to the human readable address
+
+a Query String is the string we/the browsers pass to the URL to search for something
+
+GET is to retrieve/request data. POST also requests data, however, it also has a side effect
+
+an HTTP request is a request from a client to a server
+    
+an HTTP response is the response to the HTTP request from a server to a client
+
+Headers have additional information that the browsers use to communicate and set up things
+
+DNS is use to get the IP address of the server
+using the IP address the browser makes an HTTP request with the necessary info
+the server sends back an HTTP response
+the browser renders the HTML
+
